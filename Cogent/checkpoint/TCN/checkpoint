@@ -1,2 +1,0 @@
-model_checkpoint_path: "TCN_cogent1.ckpt"
-all_model_checkpoint_paths: "TCN_cogent1.ckpt"
